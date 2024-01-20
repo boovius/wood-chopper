@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89205801357",
+    "project_id": "woodchopper-c2ad7",
+    "storage_bucket": "woodchopper-c2ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89205801357:android:ac6c6ee85cca86b7fbfdc4",
+        "android_client_info": {
+          "package_name": "com.mochprods.woodchopper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhq2vhPlkUBldi-FMLX5LSc7VP0WC6Esw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

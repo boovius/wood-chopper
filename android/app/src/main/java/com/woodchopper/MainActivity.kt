@@ -1,4 +1,4 @@
-package com.woodchopper
+package com.mochprods.woodchopper
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

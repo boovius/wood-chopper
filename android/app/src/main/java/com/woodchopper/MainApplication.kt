@@ -1,4 +1,4 @@
-package com.woodchopper
+package com.mochprods.woodchopper
 
 import android.app.Application
 import com.facebook.react.PackageList
